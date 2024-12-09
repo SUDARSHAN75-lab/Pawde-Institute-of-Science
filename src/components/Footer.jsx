@@ -10,7 +10,7 @@ const Footer = () => {
           © 2024 Pawde Institute of Science Hadgaon. All rights reserved.
         </Typography>
         <Typography variant="body2">
-          Designed by Er.Sudarshan Pawde
+          Designed by Er.Sudarshan s. Pawde
         </Typography>
       </Container>
     </Box>
