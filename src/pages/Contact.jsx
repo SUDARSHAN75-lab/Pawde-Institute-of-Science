@@ -141,14 +141,14 @@ const Contact = () => {
             }}
           >
             <Typography variant="body1" sx={{ marginBottom: '1rem', color: '#004D40' }}>
-              Pawde Coaching Classes, Main Road, Nanded, Maharashtra
+              Pawde Institute of Science Hadgaon, Dist Nanded
             </Typography>
             <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', marginBottom: '1rem' }}>
               <IconButton sx={{ color: '#004D40', marginRight: '10px' }} href="tel:+911234567890">
                 <Phone />
               </IconButton>
               <Typography variant="body1" sx={{ color: '#004D40' }}>
-                +91 123 456 7890
+                8421336796
               </Typography>
             </Box>
             <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', marginBottom: '1rem' }}>
@@ -156,7 +156,7 @@ const Contact = () => {
                 <Email />
               </IconButton>
               <Typography variant="body1" sx={{ color: '#004D40' }}>
-                info@pawdecoaching.com
+                sachinpawde2012@gmail.com
               </Typography>
             </Box>
           </Paper>
