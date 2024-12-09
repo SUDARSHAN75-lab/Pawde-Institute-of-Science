@@ -1,0 +1,47 @@
+/* src/components/hero.css */
+.hero {
+    position: relative;
+    background-color: #031D44; /* Very Dark Navy Background */
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6); /* Dark overlay for contrast */
+  }
+  
+  .hero-content {
+    position: relative;
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .cta-btn {
+    background-color: #E63946; /* Soft Red for CTA buttons */
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2rem;
+  }
+  
+  .cta-btn:hover {
+    background-color: #D32F2F; /* Darker red on hover */
+  }
+  

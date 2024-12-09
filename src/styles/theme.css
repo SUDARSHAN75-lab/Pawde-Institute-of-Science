@@ -1,0 +1,13 @@
+/* src/styles/theme.css */
+.MuiButton-root {
+    border-radius: 8px; /* Custom button border radius */
+  }
+  
+  .MuiAppBar-root {
+    background-color: var(--primary-color);
+  }
+  
+  .MuiTypography-root {
+    font-family: 'Roboto', sans-serif;
+  }
+  
