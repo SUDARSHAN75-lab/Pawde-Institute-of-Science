@@ -20,7 +20,7 @@ const Navbar = () => {
                 color: 'white',
               }}
             >
-              Pawde's Institute of Science
+              Pawde's Institute of Science Hadgaon
             </Typography>
             <Typography
               variant="subtitle2"
